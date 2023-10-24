@@ -184,7 +184,7 @@
 		<key>SV</key>
 		<false/>
 		<key>PAL</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>countryName</key>
@@ -192,7 +192,7 @@
 		<key>SV</key>
 		<false/>
 		<key>PAL</key>
-		<false/>
+		<true/>
 	</dict>
 </array>
 </plist>
