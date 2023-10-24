@@ -194,5 +194,21 @@
 		<key>PAL</key>
 		<true/>
 	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>Philippines</string>
+		<key>SV</key>
+		<false/>
+		<key>PAL</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>Indonesia</string>
+		<key>SV</key>
+		<false/>
+		<key>PAL</key>
+		<true/>
+	</dict>
 </array>
 </plist>
